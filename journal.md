@@ -15,3 +15,4 @@ Nous avons fait une introduction à GitHub. J'ai eu du mal car je connaissais Gi
 
 **Mes problèmes :**
 
+Je n'ai pas réussi à faire correctement cet exercice, malgré le fait que je connaisse les manipulations nécessaires. J'ai l'impression qu'il me manque quelque chose pour le faire correctement, mais quoi ? Je ne sais pas. J'espère que ce n'est que temporaire et que j'y arriverai incessamment sous peu.
