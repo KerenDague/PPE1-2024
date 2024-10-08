@@ -1,18 +1,1 @@
-# Journal de bord du projet encadré
-## Semaine 1 (cours du 25/09 et exercices)
-La première séance nous a permis d'apprendre quelques commandes avec la Konsole. On nous a expliqué le fonctionnement d'Unix et on nous a donc expliqué comment fonctionnait les lignes de commande, on nous a parlé aussi de chemin et d'arborescence (chemin absolu => part de la racine de l’arborescence /VS/ chemin relatif => indique l'emplacement d'un fichier par rapport à notre position actuelle).
-Personnellement, je n'avais jamais utilisé la Konsole auparavant. J'ai toujours été sur Windows, donc je suis habituée à créer, modifier, renommer, supprimer... mes dossiers directement avec ma souris et non avec des commandes. Durant cette séance, j'ai appris beaucoup de commandes différentes qui nous ont servis pour faire l'erxerce de la semaine 1, comme par exemple : unzip => qui nous a permis de décompresser le dossier pour l'exercice de cette semaine, mkdir => permet de créer plusieurs dossiers afin de ranger intelligemment le dossier, mv => pour déplacer les fichiers contenus dans le dossier zip afin de les répartir dans les dossiers créés juste avant...
 
-Les commandes que nous avons apprises nous ont donc servi pour l'exercice qui était à rendre pour la semaine d'après. Cette exrcice consisitait donc à ordonner un dossier zip avec des compartiments par année, mois et aussi par type de fichier. J'ai réussi à faire cet exercice, mais j'ai quand même mis beaucoup de temps et j'ai dû faire beaucoup de commandes, car je ne savais pas comment en faire le minimum possible. J'ai trouvé que cet exercice n'était pas très agréable à faire pour ceux qui ne connaissaient pas les manipulations permettant de le rendre plus rapide. 
-
-**Mes problèmes :**
-
-Je n'ai pas eu de problème pour ce devoir, j'ai juste perdu beaucoup de temps. Par exemple, pour déplacer les images en vrac dans les dossiers de leurs villes, au début je tapais `mv *Paris*.png ./Paris` et ensuite `mv *Paris*.jpg ./Paris` au lieu de taper directement `mv *Paris* ./Paris` . Je pensais qu'il fallait spécifier la nature de l'image pour la déplacer, et au bout d'un moment, je me suis dit que c'était quand même très long. Donc, j'ai tenté sans spécifier le format de l'image, et ça a fonctionné.
-De plus j'ai appris qu' il était possible de créer plusieurs dossiers en une seule commande (ce que je ne s'avais pas au debut de l'exercice) donc au lieu de taper `mkdir01` ensuite `mkdir02` ... je tappais directement `mkdir 01 02 03 04 05 06 07 08 09 10 11 12` (bon je l'ai découvert à la fin donc cette commande ne pas trop servi)
-
-## Semaine 2 (cours du 02/10 et exercices)
-Nous avons fait une introduction à GitHub. J'ai eu du mal car je connaissais GitHub, mais je n'avais jamais déposé de projets dessus. De plus, cette semaine, j'ai eu un problème avec mon ordinateur (Linux ne fonctionnait plus), donc j'ai dû faire les manipulations que tout le monde a faites en cours chez moi. J'avais pris des notes, donc je n'ai pas eu trop de mal à exécuter les commandes demandées. Pour cette semaine, j'ai donc créé une clé SSH afin de sécuriser mon travail sur GitHub, et j'ai appris de nouvelles commandes qui nous servent à naviguer sur GitHub via la Konsole. Il y a par exemple, git add => pour ajouter des modifications, git commit => qui nous permet de valider les modifications, git push => qui permet d'envoyer nos modifications dans le dépôt...
-
-**Mes problèmes :**
-
-Je n'ai pas réussi à faire correctement cet exercice, malgré le fait que je connaisse les manipulations nécessaires. J'ai l'impression qu'il me manque quelque chose pour le faire correctement, mais quoi ? Je ne sais pas. J'espère que ce n'est que temporaire et que j'y arriverai incessamment sous peu.
