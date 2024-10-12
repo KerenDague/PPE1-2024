@@ -1,0 +1,6 @@
+Annotation en 2016:
+   9443   54329  300935
+Annotation en 2017:
+   7183   40683  229756
+Annotation en 2018:
+   7565   42558  250479
