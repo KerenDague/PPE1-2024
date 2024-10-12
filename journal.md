@@ -31,4 +31,5 @@ Petites lignes bidons pour l'exercice:
 - bidon1
 - bidon2
 
+Cette ligne doit rester après correction.
 
