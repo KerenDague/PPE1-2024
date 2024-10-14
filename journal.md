@@ -21,14 +21,17 @@ J'ai eu beaucoup de mal à faire cet exercice, j'ai trouvé que les explications
 Cette semaine, nous avons commencé la séance en corrigeant l’exercice de la semaine passée. J’ai donc compris pourquoi je n’avais pas réussi à faire cet exercice. J'avais bien senti qu’il me manquait quelque chose, et ce quelque chose était la commande vim, qui n’était pas du tout dans le diaporama du cours et que je n’ai pas trouvée lors de mes recherches sur Internet. Finalement, il me manquait juste cette commande, sinon j’avais bien compris dans quel ordre il fallait mettre les autres commandes.
 Après cela, nous avons continué le cours sur le Shell, et nous avons appris de nouvelles commandes comme : wc=> permet de connaître le nombre de caractères d'un fichier texte, grep=> recherche de motifs dans l’entrée,sort=> qui tri des lignes, uniq=> qui nous permet de supprimer les lignes qui se répètent, echo=> qui affiche un texte...
  
-Pour les exercices de cette semaine, Juliette nous a proposé, à Maiween et moi, de travailler toutes les trois pour la première partie de l’exercice, c’est-à-dire sur les pipelines. Ce fut une brillante idée. Cela nous a fait économiserbeaucoup de temps, même si, je l’avoue, nous avons mis au moins 2h30 pour faire cet exercice. Il n’était pas facile. Nous nous sommes beaucoup creusé la tête et avons fait beaucoup de recherches, mais finalement, nous avons réussi à le faire correctement.
-En tout cas, je suis très contente d'avoir compris et réussi à me servir de toutes les commandes, parce que la dernière fois, j'étais vraiment déçue.
+Pour les exercices de cette semaine, Juliette nous a proposé, à Maiween et moi, de travailler toutes les trois pour la première partie de l’exercice, c’est-à-dire sur les pipelines. Ce fut une brillante idée. Cela nous a fait économiserbeaucoup de temps, même si, je l’avoue, nous avons mis au moins 2h30 pour faire cet exercice. Il n’était pas facile. Nous nous sommes beaucoup creusé la tête et avons fait beaucoup de recherches,des schémas...  mais finalement, nous avons réussi à le faire correctement.
+La partie ou nous avons mis le plus de temps est la partie 2a, à ce moment là les schéma nous on beaucoup aidé nottament pour comprendre dans quel ordre devait se trouvait les commandes. De plus au debut on utilisait seulement une commande `sort` et aucun résultat n'était concluant, ensuite nous avons refait des recherche et une personne sur un forum de discussion utilisait deux types de `sort` : `sort -d` et `sort -n` ça nous a beaucoup aidé et on a directement compris comment il fallait régler le problème. 
+En tout cas, je suis très contente d'avoir compris et réussi à me servir de toutes les commandes, parce que la dernière fois, j'étais vraiment déçue de pas avoir réussi l'exercice.
+
+**Exercice git II:**
+
+Cette ligne doit rester après correction.
+
+Cette ligne est mise de côté.
 
 Pour la deuxième partie de l’exercice, nommée "gitII", j’étais seule face à mon ordinateur. J’ai beaucoup repensé à l’exercice de la semaine 2 que je n’avais pas réussi, et j’appréhendais cet exercice, car je trouve que ce n’est pas simple, et j’ai l’impression que toutes les manipulations ne sont pas dans le diaporama.
-
-## Semaine 3 Exercice GIT:
-Petites lignes bidons pour l'exercice:
-- bidon1
-- bidon2
-
+Finalement cet exercice s'est plutôt bien déroulé même si j'ai mis ÉNORMEMENT de temps à le faire !
+Outre les commandes telles que `git fetch`, `git pull`... que nous connaissions déjà, pour cette exercice j'ai utilisé de nouvelles commandes. Il y a git revert => qui permet de supprimer un commit déjà poussé, git reset => pour supprimer un commit non poussé, git stash => pour gérer des conflits...
 
