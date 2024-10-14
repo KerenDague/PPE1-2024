@@ -34,6 +34,9 @@ Cette ligne est mise de côté.
 Pour la deuxième partie de l’exercice, nommée "gitII", j’étais seule face à mon ordinateur. J’ai beaucoup repensé à l’exercice de la semaine 2 que je n’avais pas réussi, et j’appréhendais cet exercice, car je trouve que ce n’est pas simple, et j’ai l’impression que toutes les manipulations ne sont pas dans le diaporama.
 Finalement cet exercice s'est plutôt bien déroulé même si j'ai mis ÉNORMEMENT de temps à le faire !
 Outre les commandes telles que `git fetch`, `git pull`... que nous connaissions déjà, pour cette exercice j'ai utilisé de nouvelles commandes. Il y a git revert => qui permet de supprimer un commit déjà poussé, git reset => pour supprimer un commit non poussé, git stash => pour gérer des conflits...
+Pour le dernier exercice j'ai préféré m'entraîner sur mon faux dépôt et ensuite le faire ici.
 
+**Mes problèmes:**
 
+Durant cet exercice j'ai rencontré juste un petit problème, j'arrivais plus à pull et mon ordi m'affichait `CONFLICT (content): Merge conflict in journal.md`. J'ai donc résolu ce problème en retournant dans `vim`, j'ai courigé l'erreur (qui était entouré par des chevrons) et ensuite j'ai fais comme d'habitude, git add ensuite git commit et enfin git push.
 
