@@ -26,7 +26,7 @@ En tout cas, je suis très contente d'avoir compris et réussi à me servir de t
 
 Pour la deuxième partie de l’exercice, nommée "gitII", j’étais seule face à mon ordinateur. J’ai beaucoup repensé à l’exercice de la semaine 2 que je n’avais pas réussi, et j’appréhendais cet exercice, car je trouve que ce n’est pas simple, et j’ai l’impression que toutes les manipulations ne sont pas dans le diaporama.
 
-# Semaine 3 Exercice GIT:
+** Semaine 3 Exercice GIT:**
 Petites lignes bidons pour l'exercice:
 - bidon1
 - bidon2
