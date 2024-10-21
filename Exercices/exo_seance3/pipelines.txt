@@ -1,7 +1,7 @@
 Exercice 1:
 
 1a)
-daguek@dague-swiftsf31457:~Semestre1/PPE$ cd ~/Exercice1
+daguek@dague-swiftsf31457:~Semestre1/PPE$ cd ./Exercice1
 daguek@dague-swiftsf31457:~/Semestre1/PPE/Exercice1$ cd ./ann
 daguek@dague-swiftsf31457:~/Semestre1/PPE/Exercice1/ann$ cd ./2016
 daguek@dague-swiftsf31457:~/Semestre1/PPE/Exercice1/ann/2016$ echo "Annotation en 2016:" >/home/daguek/Semestre1/PPE/PPE1-2024/Exercices/comptes.txt

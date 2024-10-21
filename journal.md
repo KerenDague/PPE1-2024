@@ -42,7 +42,7 @@ Durant cet exercice j'ai rencontré juste un petit problème, j'arrivais plus à
 
 ## Semaine 4 (cours du 16/10 et exercices)
 Cette semaine nous avons fait une introduction aux scripts, nous avons compris qu'il y avait des commandes importantes à faire, comme écrire `#!/usr/bin/bash` au dessus du script mais aussi `chmod +x` qui permet de rendre le fichier exécutable. Nous avons aussi été introduit aux notions de variables en bash et aussi aux instructions telles que if=> qui permet d'exécuter certains traitements seulement si une condition particulière est vérifiée, les boucles for => servent a répéter des actions sans avoir a répéter le code, les boucles while => répète un bloc de code tant qu'une condition est vraie...
-Pendant le cours j'etais assez confiante car cela ressemble fortement à du python mais finalement cet exercice m'a pris beaucoup de temps (comme d'habitude).
+Pendant le cours j'etais assez confiante car cela ressemble fortement à du python mais finalement cet exercice m'a pris beaucoup de temps (comme d'habitude). J'ai fais une recherche sur internet pour savoir comment on incrémentait avec while sur bash et j'ai trouver un reponse directement qui m'a aidé pour l'exercice 2a.
 
 **Exercice "lire et expliquer le code":**
 
@@ -50,4 +50,5 @@ Ce script prend en entrée un fichier qui contient plusieurs éléments, et le s
 (On a déjà fait ça sur python donc c'est assez similaire, la syntaxe est juste un peu différente.) 
 
 **Mes problèmes:**
+
 Durant cet exercice j'ai eu plusieurs problèmes tels que, des `command not found` ou encore `syntax error`. Finalement j'ai reussi a résoudre ces probèmes. Mais un probleme vraiment étrange est survenu quand j'ai crée mon fichier `comptes_lieux.sh`, quand j'ai ouvert mon fichier via vim, il y avait déjà des données. Des inscriptions comme: `^[[01;1H~ ^[[02;1H~ ^[[03;1H~` ... jusqu'à `^[[31;1H~` . J'ai vraiment pas compris a quoi cela pouvait correspondre donc j'ai supprimé mon fichier et j'en ai recrée un nouveau. 
