@@ -40,3 +40,11 @@ Pour le dernier exercice j'ai préféré m'entraîner sur mon faux dépôt et en
 
 Durant cet exercice j'ai rencontré juste un petit problème, j'arrivais plus à pull et mon ordi m'affichait `CONFLICT (content): Merge conflict in journal.md`. J'ai donc résolu ce problème en retournant dans `vim`, j'ai courigé l'erreur (qui était entouré par des chevrons) et ensuite j'ai fais comme d'habitude, git add ensuite git commit et enfin git push.
 
+## Semaine 4 (cours du 16/10 et exercices)
+Cette semaine nous avons fait une introduction aux scripts, nous avons compris qu'il y avait des commandes importantes à faire, comme écrire `#!/usr/bin/bash` au dessus du script mais aussi `chmod +x` qui permet de rendre le fichier exécutable. Nous avons aussi été introduit aux notions de variables en bash et aussi aux instructions telles que if=> qui permet d'exécuter certains traitements seulement si une condition particulière est vérifiée, les boucles for => servent a répéter des actions sans avoir a répéter le code, les boucles while => répète un bloc de code tant qu'une condition est vraie...
+Pendant le cours j'etais assez confiante car cela ressemble fortement à du python mais finalement cet exercice m'a pris beaucoup de temps (comme d'habitude).
+
+**Exercice "lire et expliquer le code":**
+
+Ce script prend en entrée un fichier qui contient plusieurs élémets, et le script permet de vérifie si chaque ligne du fichier contient une URL valide. Si il y a bien une URL valide, le script rajoute 1 a une variable vide ce qui permet de compter le nombre d'URL valide que contient le fichier, il fait de même pour les URL non valide avec une autre variable vide.
+(On a déjà fait ça sur python donc c'est assez similaire, la syntaxe est juste un peu différente.) 
