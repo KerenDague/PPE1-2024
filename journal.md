@@ -46,5 +46,8 @@ Pendant le cours j'etais assez confiante car cela ressemble fortement à du pyth
 
 **Exercice "lire et expliquer le code":**
 
-Ce script prend en entrée un fichier qui contient plusieurs élémets, et le script permet de vérifie si chaque ligne du fichier contient une URL valide. Si il y a bien une URL valide, le script rajoute 1 a une variable vide ce qui permet de compter le nombre d'URL valide que contient le fichier, il fait de même pour les URL non valide avec une autre variable vide.
+Ce script prend en entrée un fichier qui contient plusieurs éléments, et le script permet de vérifie si chaque ligne du fichier contient une URL valide. Si il y a bien une URL valide, le script rajoute 1 a une variable vide ce qui permet de compter le nombre d'URL valide que contient le fichier, il fait de même pour les URL non valide avec une autre variable vide.
 (On a déjà fait ça sur python donc c'est assez similaire, la syntaxe est juste un peu différente.) 
+
+**Mes problèmes:**
+Durant cet exercice j'ai eu plusieurs problèmes tels que, des `command not found` ou encore `syntax error`. Finalement j'ai reussi a résoudre ces probèmes. Mais un probleme vraiment étrange est survenu quand j'ai crée mon fichier `comptes_lieux.sh`, quand j'ai ouvert mon fichier via vim, il y avait déjà des données. Des inscriptions comme: `^[[01;1H~ ^[[02;1H~ ^[[03;1H~` ... jusqu'à `^[[31;1H~` . J'ai vraiment pas compris a quoi cela pouvait correspondre donc j'ai supprimé mon fichier et j'en ai recrée un nouveau. 
