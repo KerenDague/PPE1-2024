@@ -52,3 +52,9 @@ Ce script prend en entrée un fichier qui contient plusieurs éléments, et le s
 **Mes problèmes:**
 
 Durant cet exercice j'ai eu plusieurs problèmes tels que, des `command not found` ou encore `syntax error`. Finalement j'ai reussi a résoudre ces probèmes. Mais un probleme vraiment étrange est survenu quand j'ai crée mon fichier `comptes_lieux.sh`, quand j'ai ouvert mon fichier via vim, il y avait déjà des données. Des inscriptions comme: `^[[01;1H~ ^[[02;1H~ ^[[03;1H~` ... jusqu'à `^[[31;1H~` . J'ai vraiment pas compris a quoi cela pouvait correspondre donc j'ai supprimé mon fichier et j'en ai recrée un nouveau. 
+
+## Semaine 5 (cours du 23/10 et vacances)
+Nous avons commencé le cours en abordant les différents éditeurs de texte en terminal ( vim; nano; micro; helix) ceci m'a aidé e choisir l'éditeur `helix`. Avant j'etais sur `vim` et le probleme avec `vim` c'est qu'il faut connaître les commandes pour les utiliser mais bon je suis debutante donc je les connais pas. Ducoup `helix` est mieux car il decrit chaque commande afin de nous aider a choisir laquelle on veut utiliser.
+Cette semaine nous avons abordé les fondamentaux du web, notamment la structure des pages avec HTML qui permet de structurer l'information et de créer des pages web.
+Le cours introduit aussi des outils pratiques pour manipuler des pages web : Lynx => permet d'afficher uniquement le contenu texte d'une page web; wget => qui permet de récupérer le contenu d'une page web sans passer par un navigateur en l'enregistrant dans un fichier; cURL => fait pareil que wget mais affiche le contenu dans le terminal... 
+
