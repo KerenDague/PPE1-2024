@@ -2,8 +2,7 @@
 for el in 2016 2017 2018
 do
 	echo "Annotations de locations en $el :"
-	RESULTAT=$(cat $el/*/*.ann |grep "Location" |wc -c)
-	echo "$RESULTAT"
+	grep location ~/Semestre1/PPE/Exercice1/ann/$el/*.ann |wc -l
 done
 
 
