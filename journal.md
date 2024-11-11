@@ -68,4 +68,5 @@ La troisième partie du cours nous avons abordé le mini-projet pour commencer l
 
 2) Pour transformer `urls/fr.txt` il faut tout simplement le remplacer par $1. Cela permet de pouvoir changer cette variable plus facilement.
 
-3) --
+3) -- 
+
