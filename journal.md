@@ -58,3 +58,14 @@ Nous avons commencé le cours en abordant les différents éditeurs de texte en 
 Cette semaine nous avons abordé les fondamentaux du web, notamment la structure des pages avec HTML qui permet de structurer l'information et de créer des pages web.
 Le cours introduit aussi des outils pratiques pour manipuler des pages web : Lynx => permet d'afficher uniquement le contenu texte d'une page web; wget => qui permet de récupérer le contenu d'une page web sans passer par un navigateur en l'enregistrant dans un fichier; cURL => fait pareil que wget mais affiche le contenu dans le terminal... 
 
+## Semaine 6 (cours du 6/11)
+Nous avons tout d'abord corrigé les scripts et ensuite nous avons parlé de nos recherches de mots pour le projet final. Avec mon groupe, nous pensions aux mots : tour, vol et course. Ils ont tous été validés par le professeur et maintenant nous nous entretenons pour savoir lequel nous allons choisir.
+La troisième partie du cours nous avons abordé le mini-projet pour commencer la récolte sur des données préparées. Ce mini-projet permet à tout le monde d'avoir de bonnes bases afin de commencer les projets correctement.
+
+**Réponses aux questions:**
+
+1) La commande `cat` affiche tout le contenu d'un fichier, en revanche `while read -r line;... done < "urls/fr.txt"` permet de traiter chaque ligne individuellement.
+
+2) Pour transformer `urls/fr.txt` il faut tout simplement le remplacer par $1. Cela permet de pouvoir changer cette variable plus facilement.
+
+3) --
