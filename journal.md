@@ -70,3 +70,6 @@ La troisième partie du cours nous avons abordé le mini-projet pour commencer l
 
 3) -- 
 
+## Semaine 6 (cours du 13/11 et exercices)
+Cette semaine nous avons continuer le mini-projet, nous avons aussi parlé du balisage en HTML, ses spécificités...
+Nous devions modifier le tableau qui etait a faire pour la semaine derniere en le transformant en HTML, ce fut assez simple (pour une fois XD), je n'ai pas eu de problemes et mon tableau s'affiche bien. 
