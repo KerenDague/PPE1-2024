@@ -72,4 +72,9 @@ La troisième partie du cours nous avons abordé le mini-projet pour commencer l
 
 ## Semaine 6 (cours du 13/11 et exercices)
 Cette semaine nous avons continuer le mini-projet, nous avons aussi parlé du balisage en HTML, ses spécificités...
-Nous devions modifier le tableau qui etait a faire pour la semaine derniere en le transformant en HTML, ce fut assez simple (pour une fois XD), je n'ai pas eu de problemes et mon tableau s'affiche bien. 
+Nous devions modifier le tableau qui etait a faire pour la semaine derniere en le transformant en HTML, ce fut assez simple (pour une fois XD), je n'ai pas eu de problemes et mon tableau s'affiche bien.
+
+## Semaine 8 (cours du 20/11 et exercices)
+Cette semaine je n'ai pas pu etre presente au cours, ducoup mes amis m'ont vaguement expliqué ce que vous aviez fait en cours. J'ai rattrapé mon retard et donc j'ai aussi fais les exercices. Je n'avais pas bien compris ce qu'il fallait faire mais je crois que ce que j'ai fais est correct. Ca n'a pas éte compliqué pour moi car j'avais fait un peu de HTML l'année dernière. 
+Par contre pour les exercices je n'ai pas fait comme demandé, j'ai crée mon site à partir de mes choix et non à partir du site Bulma (j'avais pas compris qu'il fallait faire ça), ducoup je me suis completement compliqué la tache XD. Mais bon mon site est quand meme beau donc je suis contente. A la place de `style` il fallait tout simplement mettre en dessous de `head` `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css"><meta name="viewport" content="width=device-width, initial-scale=1">`.Ducoup pour faire la partie `style` je me suis aidé du site internet https://developer.mozilla.org/fr/docs/Web/HTML .
+ 
