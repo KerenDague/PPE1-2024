@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>DAGUE Keren</title>
+		<style>
+		*{.box {
+				width: 1200px;
+				height: 370px;
+				padding: 35px;
+				background-color: #a9ba9d;
+				font-size: 14x;
+				margin : 0 auto;
+			}
+			body {
+				background-color: #f5f5dc;
+				color: #333;
+			}
+			.image-container {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			.image-container img {
+				width: 300px;
+				height: 200px;
+				object-fit: cover;
+				margin-right: 0 auto;
+			}
+		}
+		</style>
+	</head>
+	<body>
+		<h1>PPE1-2024</h1>
+		 <div class="image-container" style="display: flex; flex-wrap: wrap;">
+		<figure class="image is-12x12 is-inline-block"><img class= "is-rounded" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" title="Flag of France  Source de l'image : Wikimedia" /></figure>
+		<figure class="image is-12x12 is-inline-block"><img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" title="Flag of Italy Source de l'image : Wikimedia"/></figure>
+		<figure class="image is-12x12 is-inline-block"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" title="Flag of the People's Republic of China Source de l'image : Wikimedia" /></figure>
+		</div>
+		<div class="box">
+			<h2 class="subtitle  is-4">Le projet</h2>
+			<p>L'objectif du projet est de <b>repérer et d'analyser les nuances linguistiques d'un mot</b> dans 3 langues différentes. Je suis avec Mercutio et Simeng, nous ne savons pas encore quel mot nous allons choisir mais surement soit <i>tour</i> soit <i>course</i>.</p>
+			<p>Pour ce devoir nous allons analyser ce mot dans les trois langues suivantes:</p>
+				<li>Français</li>
+				<li>Italien</li>
+				<li>Chinois</li>
+			<p>Je m'occupera de la partie en français.</p>
+			<p>Mercutio s'occupera de la partie en italien.</p>
+			<p>Simeng s'occupera de la partie en chinois.</p>
+			<p><a href="file:///home/daguek/Semestre1/PPE/tableau-fr.html">Le tableau est ici !</a> </p>
+		</div>
+	</body>
+</html>
